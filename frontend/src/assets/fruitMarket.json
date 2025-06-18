@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Banana",
+    "price": 0.5,
+    "rate": "Good",
+    "kilo": "1kg",
+    "image": "../images/liin.jpg"
+  },
+  {
+    "name": "Apple",
+    "price": 0.8,
+    "rate": "Excellent",
+    "kilo": "1kg",
+    "image": "../images/mcn.jpg"
+  },
+  {
+    "name": "Orange",
+    "price": 0.6,
+     "rate": 3.5,
+    "kilo": "1kg",
+    "image": "../images/qajar.jpg"
+  },
+  {
+    "name": "Mango",
+    "price": 1.2,
+    "rate": 3.7,
+    "kilo": "1kg",
+    "image": "../images/qumbo.jpg"
+  },
+  {
+    "name": "Grapes",
+    "price": 2.0,
+    "rate": 4.5,
+    "kilo": "1kg",
+    "image": "../images/grapes.jpg"
+  },
+  {
+    "name": "Pineapple",
+    "price": 1.5,
+    "rate": 2.5,
+    "kilo": "1kg",
+    "image": "../images/pineapple.jpg"
+  },
+  {
+    "name": "Kiwi",
+    "price": 2.5,
+    "rate": 3.5,
+    "kilo": "1kg",
+    "image": "../images/kiwi.jpg"
+  },
+  {
+    "name": "Papaya",
+    "price": 1.0,
+    "rate": 4.5,
+    "kilo": "1kg",
+    "image": "../images/papaya.jpg"
+  },
+  {
+    "name": "Strawberry",
+    "price": 3.0,
+    "rate": 3.5,
+    "kilo": "1kg",
+    "image": "../images/strawberry.jpg"
+  },
+  {
+    "name": "Lemon",
+    "price": 0.7,
+    "rate": 2.5,
+    "kilo": "1kg",
+    "image": "../images/lemon.jpg"
+  },
+  {
+    "name": "Watermelon",
+    "price": 0.4,
+    "rate": 4.5,
+    "kilo": "1kg",
+    "image": "../images/watermelon.jpg"
+  },
+  {
+    "name": "Blueberry",
+    "price": 2.5,
+    "rate": 3.9,
+    "kilo": "1kg",
+    "image": "../images/blueberry.jpg"
+  }
+]

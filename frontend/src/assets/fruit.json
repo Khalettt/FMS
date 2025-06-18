@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Banana",
+    "image": "liin.jpg",
+    "calories": 89,
+    "sugar": 12,
+    "vitaminC": 8.7
+  },
+  {
+    "name": "Apple",
+    "image": "mcn.jpg",
+    "calories": 52,
+    "sugar": 10,
+    "vitaminC": 4.6
+  },
+  {
+    "name": "Orange",
+    "image": "qajar.jpg",
+    "calories": 47,
+    "sugar": 9,
+    "vitaminC": 53.2
+  },
+  {
+    "name": "Strawberry",
+    "image": "qumbo.jpg",
+    "calories": 33,
+    "sugar": 4.9,
+    "vitaminC": 58.8
+  },
+  {
+    "name": "Grapes",
+    "image": "grapes.jpg",
+    "calories": 69,
+    "sugar": 15,
+    "vitaminC": 3.2
+  },
+  {
+    "name": "Mango",
+    "image": "mango.jpg",
+    "calories": 60,
+    "sugar": 13.7,
+    "vitaminC": 36.4
+  },
+  {
+    "name": "Pineapple",
+    "image": "pineapple.jpg",
+    "calories": 50,
+    "sugar": 9.9,
+    "vitaminC": 47.8
+  },
+  {
+    "name": "Kiwi",
+    "image": "kiwi.jpg",
+    "calories": 41,
+    "sugar": 6.2,
+    "vitaminC": 92.7
+  },
+  {
+    "name": "Blueberry",
+    "image": "blueberry.jpg",
+    "calories": 57,
+    "sugar": 10,
+    "vitaminC": 9.7
+  },
+  {
+    "name": "Papaya",
+    "image": "papaya.jpg",
+    "calories": 43,
+    "sugar": 7.8,
+    "vitaminC": 60.9
+  }
+]
