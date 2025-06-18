@@ -23,6 +23,7 @@ const stats = [
     title: "Total Equipments",
     value: "1500k",
     change: "15%",
+    
     icon: <Users size={26} />,
   },
   {
