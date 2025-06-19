@@ -1,4 +1,3 @@
-// AppWrapper.jsx
 import {
   Routes,
   Route,
@@ -15,8 +14,6 @@ import ContactPage from "./../pages/ContactPage";
 import Login from "./../pages/Login";
 import Signup from "./../pages/Signup";
 import PrivateRoute from "./../components/PrivateRoute";
-
-// Dashboard Imports (Hubi in paths-kani sax yihiin mar walba)
 import DashboardLayout from "../pages/Dashboard/src/DashboardLayout";
 import DashboardHome from "../pages/Dashboard/src/DashboardHome";
 import Analytics from "../pages/Dashboard/src/tables/Analytics";

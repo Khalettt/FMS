@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Outlet } from 'react-router-dom';
-import { Sidebar } from './layouts/sidebar';
+import  {Sidebar}  from './layouts/sidebar';
 import { Header } from './layouts/header';
 import "../../css/home.css"
-// import "./index.css"
 
 function DashboardLayout() {
   const [collapsed, setCollapsed] = useState(false);

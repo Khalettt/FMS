@@ -6,9 +6,8 @@ import { useState, useRef, useEffect } from "react";
 import { toast } from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-import { ProfileModal } from "./ProfileModal"; 
-
-import profileImg from "../assets/profile-image.jpg"; // Default profile image
+import { ProfileModal } from "./profilemodal";
+import profileImg from "../assets/profile-image.jpg"; 
 
 import axios from "axios";
 

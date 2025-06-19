@@ -1,7 +1,6 @@
 import { Area, AreaChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { useTheme } from "./../hooks/use-theme";
-
-import ProfileImage from "../assets/profile-image.jpg";
+import ProfileImage from "../../../../images/uploads/profImg.jpg";
  const overviewData = [
     {
       name: "Jan",
